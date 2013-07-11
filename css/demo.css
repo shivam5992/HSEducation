@@ -1,0 +1,35 @@
+@import url('reset.css');
+/* General Demo Style */
+
+.hh
+{
+width:100%;
+border:2 solid black;
+}
+.main{
+	position:relative;
+ }
+
+#sidebar{
+
+float: right;
+width:45%;
+
+	
+}
+.container{
+
+
+		
+
+	position:relative;
+
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.content{
+	position:relative;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maths>
+	<topic id="1">
+		<name>Probablity</name>
+		<description>Probability is a measure of the expectation that an event will occur or a statement is true</description>
+		<bookname>Probablity,R.K.Rai</bookname>
+		<bookimage>Maths/a13.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Bessels Function</name>
+		<description> Bessel functions, first defined by the mathematician Daniel Bernoulli and generalized by Friedrich Bessel, are canonical solutions y(x) of Bessel's differential equation</description>
+		<bookname>Bessels Function,H. K. Das</bookname>
+		<bookimage>Maths/a14.jpg</bookimage>
+		
+	</topic>
+	<topic id="3">
+		<name>Discrete Mathematics</name>
+		<description>Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous</description>
+		<bookname>Discrete Mathematics, R.C. Jain</bookname>
+		<bookimage>Maths/a15.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Applied Linear Algebra</name>
+		<description>Linear algebra is the branch of mathematics concerning vector spaces, often finite or countably infinite dimensional</description>
+		<bookname>Applied Linear Algebra,D. K. Panday</bookname>
+		<bookimage>Maths/a16.jpg</bookimage>
+		
+	</topic>
+	<topic id="5">
+		<name>Calculus</name>
+		<description>Calculus (Latin, calculus, a small stone used for counting) is a branch of mathematics focused on limits, functions, derivatives, integrals, and infinite series</description>
+		<bookname>Calculus,S. K. Goel</bookname>
+		<bookimage>Maths/a17.jpg</bookimage>
+		
+	</topic>
+</maths>

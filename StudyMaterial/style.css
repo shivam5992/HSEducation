@@ -1,0 +1,65 @@
+#main_form {
+
+width:90%;
+margin-left:33%;
+margin-right:auto;
+
+
+}
+
+#form-list {
+
+list-style-type:none;
+padding:2px;
+}
+
+
+#form-list > li {
+
+margin-bottom:25px;
+padding-bottom:6px;
+border-bottom:1px dashed #D7DBDB;
+
+width:40%;
+
+}
+
+ label {
+font-family:Helvetica;
+color:#2AAEBF;
+margin-right:4px;
+
+
+
+}
+input {
+
+border:1px solid #CFCBC6;
+
+}
+
+.spanclass {
+margin-left:25px;
+font-family:helvetica;
+color:#F24141;
+padding:7px;
+background:#FAFA91;
+}
+
+input[type=submit] {
+
+border-radius:4px;
+background:#D9D9D7;
+padding:6px;
+}
+
+input[type=submit]:hover {
+background:#6FDEED;
+border-radius:4px;
+padding:6px;
+
+}
+
+
+
+}

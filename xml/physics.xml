@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<physics>
+	<topic id="1">
+		<name>Materials Science</name>
+		<description>Materials science is an interdisciplinary field applying the properties of matter to various areas of science and engineering.</description>
+		<bookname>Materials Science, P. K. Singh</bookname>
+		<bookimage>Physics/a32.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Biophysics</name>
+		<description>Biophysics is an interdisciplinary science that uses the methods of, and theories from, physics to study biological systems.</description>
+		<bookname>Biophysics, S. P. Jain</bookname>
+		<bookimage>Physics/a28.jpg</bookimage>
+		
+	</topic>
+	<topic id="3">
+		<name>Thermodynamic</name>
+		<description>Thermodynamics is the branch of natural science concerned with heat and its relation to other forms of energy and work</description>
+		<bookname>Thermodynamic, B. P. Singh</bookname>
+		<bookimage>Physics/a29.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Electrostatics</name>
+		<description>Electrostatics is the branch of physics that deals with the phenomena and properties of stationary or slow-moving (without acceleration) electric charges</description>
+		<bookname>Electrostatics,A. K. Singh</bookname>
+		<bookimage>Physics/a30.jpg</bookimage>
+		
+	</topic>
+	<topic id="5">
+		<name>Semiconductors</name>
+		<description>A semiconductor has electrical conductivity intermediate to that of a conductor and an insulator</description>
+		<bookname>Semiconductors,R. C. Jain</bookname>
+		<bookimage>Physics/a31.jpg</bookimage>
+		
+	</topic>
+</physics>

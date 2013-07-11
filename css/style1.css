@@ -1,0 +1,54 @@
+#item{
+				width:100px;
+				height:100px;
+				margin:0 auto;
+				top:300px;
+				position: relative;
+				
+			}
+			ul{
+				list-style-type: none;
+			}
+			.qwert{
+				width:150px;
+				float:left;
+				background-color: #111;
+				color: #69c;
+				font-family: Arial, "MS Trebuchet", sans-serif;
+				font-weight: bold;
+				font-size:1em;
+			}
+
+
+a
+{
+text-align:center;
+text-decoration:none;
+color:white;
+}
+a:hover
+{
+color:black;
+}
+
+#aa
+{
+font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+padding:0;
+margin:0;
+float:left;
+}
+#aac:hover
+
+{
+box-shadow: 10px 10px 5px #888888;
+}
+
+
+
+
+
+
+
+
+

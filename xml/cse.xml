@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cse>
+	<topic id="1">
+		<name>MICRO</name>
+		<description>MICRO Information Management System, an early set-theoretic database management system</description>
+		<bookname>MICRO,S. P. Jain</bookname>
+		<bookimage>CSE/a1.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Software Engineering</name>
+		<description>Software engineering (SE) is the application of a systematic, disciplined, quantifiable approach to the design, development, operation, and maintenance of software</description>
+		<bookname>Software Engineering, R. K. Mishra</bookname>
+		<bookimage>CSE/a2.jpg</bookimage>
+		
+	</topic>
+	<topic id="3">
+		<name>Operating System</name>
+		<description>An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs</description>
+		<bookname>Operating System, R. Jain</bookname>
+		<bookimage>CSE/a3.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Theory Of Computation</name>
+		<description> theory of computation is the branch that deals with whether and how efficiently problems can be solved on a model of computation, using an algorithm</description>
+		<bookname>Theory Of Computation,D. K. Singh</bookname>
+		<bookimage>CSE/a4.jpg</bookimage>
+		
+	</topic>
+	<topic id="5">
+		<name>Web technology</name>
+		<description>Web design encompasses many different skills and disciplines in the production and maintenance of websites.</description>
+		<bookname>Web technology,M. S. Jain</bookname>
+		<bookimage>CSE/a5.jpg</bookimage>
+		
+	</topic>
+</cse>

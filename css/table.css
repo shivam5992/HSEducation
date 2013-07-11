@@ -1,0 +1,44 @@
+* { margin: 0; padding: 0; outline: 0 }
+.pp
+{
+
+background-color:#FFF;
+}
+.pp1
+{
+margin-top:-1.250em;
+padding:0.125em;
+margin-left:20px;
+
+}
+ #a3
+{
+background-color:#2E2E2E;
+}
+
+ #a4
+{
+background-color:#1E1E1E;
+}
+
+ #a1
+{
+width:100px;
+padding:5px;
+}
+
+#a2
+{
+width:150px;
+padding:5px;
+}
+#a2:hover 
+{
+box-shadow: 10px 10px 5px #888888;background-color:1A1618;
+}
+ #a5
+{
+font-size:75%;
+font-family:Poor Richard;
+text-align:center;
+}

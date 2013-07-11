@@ -1,0 +1,187 @@
+.lb-overlay{
+	width: 0px;
+	height: 0px;
+	position: fixed;
+	overflow: hidden;
+	left: 0px;
+	top: 0px;
+	padding: 0px;
+	z-index: 99;
+	
+	background: rgb(241,210,194);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%, rgba(241,210,194,1) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.56)), color-stop(100%,rgba(241,210,194,1)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+	background: radial-gradient(center, ellipse cover, rgba(255,255,255,0.56) 0%,rgba(241,210,194,1) 100%);
+}
+
+
+.lb-overlay div{
+	position: relative;
+	opacity: 0;
+
+	text-shadow: 0px 1px 1px rgba(255,255,255,0.6);
+	-webkit-transition: opacity 0.3s linear 1.3s;
+	-moz-transition: opacity 0.3s linear 1.3s;
+	-o-transition: opacity 0.3s linear 1.3s;
+	-ms-transition: opacity 0.3s linear 1.3s;
+	transition: opacity 0.3s linear 1.3s;
+}
+#btn1,#btn2
+{
+	background: #d11717 url('but1.jpg');
+  background-position: 0 0;
+  text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+  font-size: 16px;
+  color:#FFF;
+  height: 30px;
+  width: 100px;
+  margin: 50px 0 0 50px;
+  overflow: hidden;
+  display: block;
+  text-align: center;
+  border: 1px solid rgb(178, 178, 178);
+  
+   -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+ 
+  /*Shadow*/
+  -webkit-box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+  -webkit-transition: All 0.8s ease;
+  -moz-transition: All 0.8s ease;
+  -o-transition: All 0.8s ease;
+  -ms-transition: All 0.8s ease;
+  transition: All 0.8s ease;
+  
+}
+		 
+	
+#btn1:hover {
+  background-position: 0 150px;
+}
+#btn2:hover {
+  background-position: 0 150px;
+}
+
+
+
+.lb-overlay:target 
+{
+	width: auto;
+	height: auto;
+	bottom: 0px;
+	right: 0px;
+	padding-left:400px;
+	padding-top:200px;
+}
+.lb-overlay:target div 
+{
+	-webkit-animation: scaleDown 1.2s ease-in-out;
+	-moz-animation: scaleDown 1.2s ease-in-out;
+	-o-animation: scaleDown 1.2s ease-in-out;
+	-ms-animation: scaleDown 1.2s ease-in-out;
+	animation: scaleDown 1.2s ease-in-out;
+}
+.lb-overlay:target a.lb-close,
+.lb-overlay:target > div{
+	opacity: 1;
+	filter: alpha(opacity=99); /* internet explorer */
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=99)"; /*IE8*/
+}
+@-webkit-keyframes scaleDown {
+  0% { -webkit-transform: scale(10,10); opacity: 0; }
+  100% { -webkit-transform: scale(1,1); opacity: 1; }
+}
+@-moz-keyframes scaleDown {
+  0% { -moz-transform: scale(10,10); opacity: 0; }
+  100% { -moz-transform: scale(1,1); opacity: 1; }
+}
+@-o-keyframes scaleDown {
+  0% { -o-transform: scale(10,10); opacity: 0; }
+  100% { -o-transform: scale(1,1); opacity: 1; }
+}
+@-ms-keyframes scaleDown {
+  0% { -ms-transform: scale(10,10); opacity: 0; }
+  100% { -ms-transform: scale(1,1); opacity: 1; }
+}
+@keyframes scaleDown {
+  0% { transform: scale(10,10); opacity: 0; }
+  100% { transform: scale(1,1); opacity: 1; }
+}
+/* 
+	100% Height for Opera as the max-height seems to be ignored, not optimal for large screens 
+	http://bricss.net/post/11230266445/css-hack-to-target-opera 
+*/
+x:-o-prefocus, .lb-overlay div{
+    height: 100%;
+}
+.login
+{
+	width:400;
+	height:150;
+
+	margin-top:0;
+	font-family:Calibri;
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+.p1
+{
+	font-family:Calibri;
+	color:#666;
+	font-size:24px;
+	margin-left:0;
+}
+.a1
+{
+	align:right;
+	font-family:Calibri;
+}
+#uname,#pass,#utype
+{
+	
+	background-size:30px 30px; 
+  background-position:left; 
+  background-repeat:no-repeat; 
+  
+	border: 1px solid rgb(178, 178, 178);
+	-webkit-border-radius:3;
+		-webkit-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	   -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	        box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	-webkit-box-shadow: 5px;
+	-moz-border-radius: 5px;
+		 border-radius: 5px;
+	
+		 font-family:Calibri;
+	
+}
+#uname
+{
+	background-image:url(user.png);
+	padding-left:27px;
+}
+#pass
+{
+	background-image:url(pass.png);
+	padding-left:27px;
+	
+}
+#utype
+{
+	
+	
+}

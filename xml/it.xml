@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<it>
+	<topic id="1">
+		<name>Mobile Computing</name>
+		<description>Mobile computing is human�computer interaction by which a computer is expected to be transported during normal usage. </description>
+		<bookname>Mobile Computing</bookname>
+		<bookimage>IT/a12.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Network Programming</name>
+		<description> network programming involves writing computer programs that enable processes to communicate with each other across a computer network.</description>
+		<bookname>Network Programming</bookname>
+		<bookimage>IT/a8.jpg</bookimage>
+		
+	</topic>
+	<topic id="3">
+		<name>UNIX</name>
+		<description>Unix operating systems are widely used in servers, workstations, and mobile devices</description>
+		<bookname>UNIX</bookname>
+		<bookimage>IT/a9.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Fundamental of Algorithms</name>
+		<description> algorithm is a step-by-step procedure for calculations. Algorithms are used for calculation, data processing, and automated reasoning.</description>
+		<bookname>Fundamental of Algorithms</bookname>
+		<bookimage>IT/a10.jpg</bookimage>
+		
+	</topic>
+	<topic id="5">
+		<name>Data_Mining</name>
+		<description>Data mining (the analysis step of the "Knowledge Discovery in Databases" process, or KDD),[1] a field at the intersection of computer science and statistics,</description>
+		<bookname>Data_Mining</bookname>
+		<bookimage>IT/a11.jpg</bookimage>
+		
+	</topic>
+</it>

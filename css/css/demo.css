@@ -1,0 +1,51 @@
+@import url('fonts/fonts.css');
+@import url('reset.css');
+
+
+body{
+	background: #ddd;
+	color: rgba(255,255,255,1);
+	font-family:'Myriad Pro', Arial, sans-serif;
+	font-size: 15px;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.container{
+	width: 900px;
+	position: relative;
+	overflow:hidden;
+	border : 2 solid green;
+}
+.clr{
+	clear: both;
+}
+h1.main{
+	font-size: 30px;
+	position:relative;
+	font-weight: 400;
+	text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+    padding: 10px;
+	text-align: center;
+	z-index: 1000;
+	-webkit-animation: appear 0.6s ease-in-out 6s backwards;
+	-moz-animation: appear 0.6s ease-in-out 6s backwards;
+}
+
+@-webkit-keyframes appear{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
+@-moz-keyframes appear{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}

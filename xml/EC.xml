@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ece>
+	<topic id="1">
+		<name>Communication Systems</name>
+		<description>communications system is a collection of individual communications networks, transmission systems, relay stations, tributary stations, and data terminal equipment</description>
+		<bookname>Communication Systems,R. K. Kaushik</bookname>
+		<bookimage>ECE/a23.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Digital Communication</name>
+		<description>Data transmission, digital transmission, or digital communications is the physical transfer of data (a digital bit stream)</description>
+		<bookname>Digital Communication, Y. Vijay</bookname>
+		<bookimage>ECE/a24.jpg</bookimage>
+		
+	</topic>
+	<topic id="3">
+		<name>Electromagnetic Engineering</name>
+		<description>Electromagnetism is the physics of the electromagnetic field: a field, encompassing all of space, </description>
+		<bookname>Electromagnetic Engineering, S. Jain</bookname>
+		<bookimage>ECE/a25.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Fourier Series</name>
+		<description>The Fourier Series is a specialized tool that allows for any periodic signal (subject to certain conditions) to be decomposed into an infinite sum of everlasting sinusoids. This may not be obvious to many people</description>
+		<bookname>Fourier Series, A. K. Singh</bookname>
+		<bookimage>ECE/a26.jpg</bookimage>
+		
+	</topic>
+	<topic id="5">
+		<name>Digital Electronics</name>
+		<description>Digital electronics, or digital (electronic) circuits, represent signals by discrete bands of analog levels, rather than by a continuous range</description>
+		<bookname>Digital Electronics, V. Singh</bookname>
+		<bookimage>ECE/a27.jpg</bookimage>
+		
+	</topic>
+</ece>

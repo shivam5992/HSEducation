@@ -1,0 +1,170 @@
+*{margin:0;padding:0;outline:0}
+
+
+.bg1
+{
+	height:50px;
+	
+}
+
+#mn 
+{
+	float: left;
+	padding: 0; 
+	margin: 0;
+	display: inline;	
+	
+}
+#cp {
+	position: static;
+	clear: both;
+	padding: 0; 		
+	float: left;
+	display: inline;
+}
+
+
+
+
+.logo
+{
+	display:block;
+	position:relative;
+	float:left;
+	margin-left:-24;
+	width:175;
+	height:114;
+	background-image:url(images/logo.png);
+}
+
+.ul1
+{
+	background-image:url(images/aaaa.jpg);
+	border-radius:3;
+	-webkit-border-radius:3;
+	-moz-border-radius:3;
+	width:185;
+	height:30;
+	margin-top:25;
+	padding:5;
+	//border:1 solid black;
+	-webkit-box-shadow: 3px 5px 17px rgba(0, 0, 0, 1);
+-moz-box-shadow:    3px 5px 17px rgba(0, 0, 0, 1);
+box-shadow:         3px 5px 17px rgba(0, 0, 0, 1);
+}
+
+.li1
+{
+	padding-top:3;	
+	padding-left:1;
+	float:left;
+	
+}
+
+.reg
+{
+	color:black;
+	font-family:Calibri;
+	font-style:normal;
+	text-decoration:none;
+	//margin-left:5;
+	//margin-top:10;
+	padding:8;
+
+	
+	
+}
+
+
+
+
+
+
+
+
+
+.footer
+{
+	background-image:url(images/header-bg.jpg);
+	width:1346px;
+	overflow:hidden;
+	height:20px;
+	position: relative;
+	clear: both;
+	padding: 1em 0 2.5em 0;
+	font: normal 1em 'Trebuchet MS', Tahoma, sans-serif;	
+	color: #555;
+	
+	
+}
+
+.abc
+{
+	float:right;
+	width:500;
+	margin-right:10;
+
+}
+
+
+#but
+ {
+background-image:url(images/aaaa.jpg);
+	
+color:black;
+   font-size: 16px;
+  overflow: hidden;
+  display: block;
+  text-align: center;
+  line-height: 10px;
+ -webkit-transition: All 0.8s ease;
+  -moz-transition: All 0.8s ease;
+  -o-transition: All 0.8s ease;
+  -ms-transition: All 0.8s ease;
+  transition: All 0.8s ease;
+
+}
+
+#but:hover 
+{
+//color:white;
+ background-position: 0 150px;
+}
+
+
+#butn { 
+    height:25px;
+    width:45px;
+    margin-left:3px;
+    -webkit-border-radius:3px;
+    padding: 2px 3px;
+    background-color:#333;
+    color:#999;
+    font-family:Calibri;
+    border-color:#333;
+
+}
+#box
+{
+ 
+  background-position:left; 
+    border: 1px solid rgb(178, 178, 178);
+    -webkit-border-radius:3;
+        -webkit-box-shadow: 0pt 2px 5px black,  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+       -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+            box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),  0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+    -webkit-box-shadow: 3px;
+    -moz-border-radius: 3px;
+         border-radius: 3px;
+        height:25px;
+    
+         font-family:Calibri;
+         padding-left: 20px;
+    margin-left:-30px;
+    background-image:url(images/sr.png);
+    background-size:20px 20px;
+    
+    background-repeat:no-repeat;
+    
+}
+

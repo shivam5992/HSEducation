@@ -1,0 +1,148 @@
+#availability_status 
+{
+	font-size:11px;
+	margin-left:10px;
+}
+.mainr
+{
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-top:0;	
+	font-family:Calibri;
+	width:100%;	
+	-webkit-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	   -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	        box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	-webkit-box-shadow: 5px;
+	-moz-border-radius: 5px;
+		 border-radius: 5px;
+		 background-image:url(images/bg.jpg);
+}
+
+.register
+{
+	font-family:Calibri;
+	font-size:36px;
+	color:#333;
+}
+
+.details
+{
+	font-family:Calibri;
+	font-size:24px;
+	color:#333;	
+}
+
+.p1
+{ 
+	margin-top:5px;
+	margin-left:0;
+	color:#F00;
+	font-size:14px;
+	font-style:italic;
+}
+.table1
+{
+	margin-left:50;
+	margin-top:20;
+	margin-bottom:0;
+}
+
+#progress_bar
+{
+	height: 5px;
+	border: #FFFFFF 0px solid;
+	font-size: 1px;
+	background-color:transparent;
+	width:60%;
+	margin-left: 5px;
+	margin-top:3px;
+}
+
+#strength_text
+{
+	font-family: Calibri; 
+	font-size: 10px; 
+	color: #888888;
+}
+
+#student
+{
+	float:left;
+	display:none;
+	margin-bottom:10;
+	margin-top:-15;	
+}
+
+#teacher
+{
+	float: left;
+	display:none;
+	margin-bottom:10;
+	margin-top:-15;	
+}
+
+#bt1
+{
+	margin-left:30;
+	margin-top:10;	
+}
+
+.captcha
+{
+	width:100%;
+	clear:both;
+	
+}
+
+.btn
+{
+	-webkit-border-radius:3;
+	background-color:#2A612C;
+	border: 1px solid rgb(178, 178, 178);
+	-webkit-border-radius:6;
+		
+	-moz-border-radius: 6px;
+		 border-radius: 6px;
+	padding:10px;
+	margin-left:20px;
+	color:#FFF;
+	text-shadow:#999;
+	text-outline:#096;
+}
+.btn:hover
+{
+background-color:#17DBE6;
+}
+#Fname,#Lname,#age,#bday,#mnumber,#email,#address,#city,#country,#state,#pincode,#username,#pass2,#cpass,#utype1,#dept,#branch,#code
+{
+		background-size:30px 30px; 
+  background-position:left; 
+  background-repeat:no-repeat; 
+  
+	border: 1px solid rgb(178, 178, 178);
+	-webkit-border-radius:3;
+		-webkit-box-shadow: 0pt 2px 5px black,	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	   -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	        box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	-webkit-box-shadow: 3px;
+	-moz-border-radius: 3px;
+		 border-radius: 3px;
+		height:25px;
+	
+		 font-family:Calibri;
+		 padding-left: 20px;
+}
+#username
+{
+	background-image:url(images/user.png);
+	background-size:20px 20px;
+	padding-left:20px;
+}
+
+.captcha
+{
+	margin-left:50px;
+}

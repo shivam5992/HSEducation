@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<papers>
+	<topic id="1">
+		<name>Probablity</name>
+		<bookname>T1 2009</bookname>
+		<bookimage>papers1/p1.jpg</bookimage>
+	</topic>
+	<topic id="2">
+		<name>Quantization</name>
+		<bookname>T3 2010</bookname>
+		<bookimage>papers1/p2.jpg</bookimage>
+	</topic>
+	<topic id="3">
+		<name>Maths</name>
+		<bookname>T2 2009</bookname>
+		<bookimage>papers1/p3.jpg</bookimage>
+	</topic>
+	<topic id="4">
+		<name>Verbal</name>
+		<bookname>T1 2012</bookname>
+		<bookimage>papers1/p4.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Logical</name>
+		<bookname>T3 2008</bookname>
+		<bookimage>papers1/p5.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Signals</name>
+		<bookname>T1 2011</bookname>
+		<bookimage>papers1/p6.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Software</name>
+		<bookname>T2 2010</bookname>
+		<bookimage>papers1/p7.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Social</name>
+		<bookname>T1 2011</bookname>
+		<bookimage>papers1/p8.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Webtech</name>
+		<bookname>T3 2007</bookname>
+		<bookimage>papers1/p9.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Communication</name>
+		<bookname>T2 2012</bookname>
+		<bookimage>papers1/p10.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Java</name>
+		<bookname>T1 2008</bookname>
+		<bookimage>papers1/p11.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Differentiation</name>
+		<bookname>T3 2008</bookname>
+		<bookimage>papers1/p12.jpg</bookimage>
+	</topic>
+	<topic id="1">
+		<name>Differentiation</name>
+		<bookname>T3 2008</bookname>
+		<bookimage>papers1/p13.jpg</bookimage>
+	</topic>
+</papers>

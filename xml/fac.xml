@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?DOCTYPE college [
+<!ELEMENT college (faculty+)>
+<!ELEMENT faculty (name,email_id,dept,Research_area,image)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email_id (#PCDATA)>
+<!ELEMENT dept (#PCDATA)>
+<!ELEMENT Reasearch_area (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+]?>
+<college>
+<faculty>
+	<name>R. K. Lal</name>
+	<email_id>rkamg@gmail.com</email_id>
+	<dept>CSE</dept>
+	<Research_area>data structure</Research_area>
+	<image>CSE/b3.jpg</image>
+</faculty>
+<faculty>
+	<name>A. K. Singh</name>
+	<email_id>ayush@gmail.com</email_id>
+	<dept>CSE</dept>
+	<Research_area>HTMl</Research_area>
+	<image>CSE/b2.jpg</image>
+</faculty>
+<faculty>
+	<name>S. Bansal</name>
+	<email_id>Sbansal.r@yahoo.com</email_id>
+	<dept>CSE</dept>
+	<Research_area>.NET</Research_area>
+	<image>CSE/b5.jpg</image>
+</faculty>
+<faculty>
+	<name>S. Jain</name>
+	<email_id>ssrkjain@gmail.com</email_id>
+	<dept>IT</dept>
+	<Research_area>Data mining</Research_area>
+	<image>IT/b8.jpg</image>
+</faculty>
+<faculty>
+	<name>R. Jain</name>
+	<email_id>Rjain.jain@hotmail.com</email_id>
+	<dept>IT</dept>
+	<Research_area>Software Engineering</Research_area>
+	<image>IT/b9.jpg</image>
+</faculty>
+<faculty>
+	<name>B. P. Rai</name>
+	<email_id>bpert@gmail.com</email_id>
+	<dept>IT</dept>
+	<Research_area>ICP</Research_area>
+	<image>IT/b12.jpg</image>
+</faculty>
+<faculty>
+	<name>S. K. Goel</name>
+	<email_id>skgoel@gmail.com</email_id>
+	<dept>Maths</dept>
+	<Research_area>calculus</Research_area>
+	<image>Maths/b13.jpg</image>
+</faculty>
+<faculty>
+	<name>R. K. Singh</name>
+	<email_id>rrkksingh@yahoo.com</email_id>
+	<dept>Maths</dept>
+	<Research_area>Alegebra</Research_area>
+	<image>Maths/b15.jpg</image>
+</faculty>
+<faculty>
+	<name>V. K. Mishra</name>
+	<email_id>vikas@gmail.com</email_id>
+	<dept>Maths</dept>
+	<Research_area>Number_system</Research_area>
+	<image>Maths/b17.jpg</image>
+</faculty>
+<faculty>
+	<name>R. K. Kaushik</name>
+	<email_id>rkkaushik@yahoo.com</email_id>
+	<dept>ECE</dept>
+	<Research_area>Communication_system</Research_area>
+	<image>ECE/b23.jpg</image>
+</faculty>
+<faculty>
+	<name>B. P. Lathi</name>
+	<email_id>bplathi@hotmail.com</email_id>
+	<dept>ECE</dept>
+	<Research_area>Signal and system</Research_area>
+	<image>ECE/b24.jpg</image>
+</faculty>
+<faculty>
+	<name>D. K. Singh</name>
+	<email_id>dksingh@gmail.com</email_id>
+	<dept>ECE</dept>
+	<Research_area>Digital Electronisc</Research_area>
+	<image>ECE/b25.jpg</image>
+</faculty>
+<faculty>
+	<name>A. K. Mishra</name>
+	<email_id>ak_mishra@gmail.com</email_id>
+	<dept>BIO</dept>
+	<Research_area>Cells</Research_area>
+	<image>BIO/b19.jpg</image>
+</faculty>
+<faculty>
+	<name>K. S. Rai</name>
+	<email_id>ksrai@gmail.com</email_id>
+	<dept>BIO</dept>
+	<Research_area>Zology</Research_area>
+	<image>BIO/b21.jpg</image>
+</faculty>
+<faculty>
+	<name>S. P. Jain</name>
+	<email_id>sp_jain@gmail.com</email_id>
+	<dept>BIO</dept>
+	<Research_area>Microbiology</Research_area>
+	<image>BIO/b22.jpg</image>
+</faculty>
+<faculty>
+	<name> D. P. Mehta</name>
+	<email_id>dp_dp@gmail.com</email_id>
+	<dept>Physics</dept>
+	<Research_area>Sound</Research_area>
+	<image>Physics/b28.jpg</image>
+</faculty>
+<faculty>
+	<name>A. Sharma</name>
+	<email_id>aakash_s@yahoo.com</email_id>
+	<dept>Physics</dept>
+	<Research_area>Light</Research_area>
+	<image>Physics/b30.jpg</image>
+</faculty>
+<faculty>
+	<name>S. K. Singh</name>
+	<email_id>sksingh@gmail.com</email_id>
+	<dept>Physics</dept>
+	<Research_area>Wave</Research_area>
+	<image>Physics/b31.jpg</image>
+</faculty>
+</college>
