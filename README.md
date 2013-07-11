@@ -13,5 +13,6 @@ This project is a complete education website with a number of features like <br>
 4. Buying and Selling of old and new books via online payment gateway.<br>
 5. Seperate sections for Admin, guests, studetns and teachers.<br>
 <br>
-<font color="green">Php Curl</font> is used for web Crawling. Similar function is used for extracting Image 
-and extracting text for the purpose of data mining. It is also extracting the tag attributes like href.
+<br>Php Curl</br> is used for web Crawling. <br>Similar function is used for extracting Image 
+and extracting text for the purpose of data mining. It is also extracting the tag attributes like href.<br><br>
+<code>$this->curl= curl_init();</code>
