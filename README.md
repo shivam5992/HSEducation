@@ -13,6 +13,11 @@ This project is a complete education website with a number of features like <br>
 4. Buying and Selling of old and new books via online payment gateway.<br>
 5. Seperate sections for Admin, guests, studetns and teachers.<br>
 <br>
-<br>Php Curl</br> is used for web Crawling. <br>Similar function is used for extracting Image 
+<b>Php Curl</b> is used for web Crawling. <br>Similar function is used for extracting Image 
 and extracting text for the purpose of data mining. It is also extracting the tag attributes like href.<br><br>
-<code>$this->curl= curl_init();</code>
+
+To Initialize the curl : <code>$this->curl= curl_init();</code> <br> is used, then there are standar functions of
+<a href="http://php.net/manual/en/book.curl.php">Curl Php Manual</a> which are used in this project.<br>
+
+To setup the database, create a database named "high_school" in MySql or PhpMyAdmin or whatever that supports MySql.<br>
+Then Import the "high_school.sql" file from the "databasa_query" folder.
