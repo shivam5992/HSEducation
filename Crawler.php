@@ -6,17 +6,7 @@ Class Crawler
 	{		
 		$this->curl= curl_init();
 	}
-	//This is used for login.
-	function logIn($loginActionUrl,$parameters)
-	{
-			curl_setopt ($this->curl, CURLOPT_URL,$loginActionUrl);	
-			curl_setopt ($this->curl, CURLOPT_POST, 1);	
-			curl_setopt ($this->curl, CURLOPT_POSTFIELDS, $parameters);	
-			curl_setopt ($this->curl, CURLOPT_COOKIEJAR, 'cookie.txt');	
-			curl_setopt ($this->curl, CURLOPT_RETURNTRANSFER, 1);
-			curl_setopt ($this->curl, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);			
-			curl_exec ($this->curl);						
-	}
+	
 	function getContent($url)
 	{
 		curl_setopt($this->curl, CURLOPT_URL, $url);	
