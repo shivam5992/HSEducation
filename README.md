@@ -4,7 +4,7 @@ High-School-Education
 A complete educational website.<br>
 
 
-<a href=" http://shivambansal.com/hseducation/" target="_blank">Link</a><br>
+<a href="http://shivambansal.com/hseducation/" target=_blank>Link</a><br>
 
 <b>Web Technologies Used in the project:</b> Php, Javascript, Html, Css3, Jquery, Ajax and Xml.
 
